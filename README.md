@@ -1,5 +1,7 @@
 # Web Analog Clock with Captions on the Clockwise
 
+![IMG](https://i.ibb.co/DWMWfJx/image-2024-04-18-102825968.png)
+
 This is a web-based analog clock that displays captions at each hour position on the clockwise direction. The project is built using HTML, CSS, and JavaScript.
 
 ## Features
